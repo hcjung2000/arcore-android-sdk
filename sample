@@ -1,0 +1,447 @@
+Tree
+Chart
+JSON Input
+[
+{
+"id": "5b0d052c931c810001e78d17",
+"c0": "Fun",
+"c1": "Deco",
+"c2": null,
+"name": "Strike Gundam ",
+"size": "",
+"maker": "Bandai",
+"thumb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/_thumb.jpg",
+"modelSfb": {
+"sfb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/andy.sfb"
+},
+"modelObj": {
+"obj": null,
+"mtl": null,
+"parts": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/antena.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/black3.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/blue.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/body_black.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/eye.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/eye_black.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/frame.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/gary4.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/gold.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/gold_frame.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/gray.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/gray2.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/gray3.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/gray5.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/head_galss.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/red.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/text.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/warm_gray.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/yellow_frame.obj"
+],
+"textures": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/s_white.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/black.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/s_blue.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/s_black.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/s_yellow.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/black.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/s_gray2.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/s_gray3.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/s_yellow.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/s_gold.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/s_black.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/s_gray3.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/s_gray2.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/s_gray1.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/black.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/s_red.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/black.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/s_gray1.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_Strike_Gundam/s_gold.jpg"
+],
+"materials": [
+"plastic_glossy",
+"plastic_glossy",
+"plastic_glossy",
+"plastic_glossy",
+"plastic_glossy",
+"plastic_glossy",
+"plastic_glossy",
+"plastic_glossy",
+"plastic_glossy",
+"chrome",
+"plastic_glossy",
+"plastic_glossy",
+"plastic_glossy",
+"plastic_glossy",
+"plastic_glossy",
+"plastic_glossy",
+"plastic_glossy",
+"plastic_glossy",
+"chrome"
+]
+},
+"scale": [
+1,
+1,
+1
+],
+"desc": [
+""
+]
+},
+{
+"id": "5b0d052c931c810001e78d16",
+"c0": "Fun",
+"c1": "Deco",
+"c2": null,
+"name": "House Figure",
+"size": "",
+"maker": "",
+"thumb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_House_Figure/_thumb.jpg",
+"modelSfb": {
+"sfb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/andy.sfb"
+},
+"modelObj": {
+"obj": null,
+"mtl": null,
+"parts": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_House_Figure/floor.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_House_Figure/lid.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_House_Figure/wall.obj"
+],
+"textures": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_House_Figure/board.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_House_Figure/board.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/SectorX_House_Figure/board.jpg"
+],
+"materials": [
+"wood_semi_glossy",
+"wood_semi_glossy",
+"wood_semi_glossy"
+]
+},
+"scale": [
+1,
+1,
+1
+],
+"desc": [
+""
+]
+},
+{
+"id": "5b0d052c931c810001e78d07",
+"c0": "Furniture",
+"c1": "Sofa",
+"c2": null,
+"name": "Dragonfly",
+"size": "170cm x 95cm x 95cm",
+"maker": "Flexform",
+"thumb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Dragonfly/_thumb.jpg",
+"modelSfb": {
+"sfb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/andy.sfb"
+},
+"modelObj": {
+"obj": null,
+"mtl": null,
+"parts": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Dragonfly/cusion.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Dragonfly/frame.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Dragonfly/shadow.obj"
+],
+"textures": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Dragonfly/cusion.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Dragonfly/wood.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Dragonfly/shadow.png"
+],
+"materials": [
+"fabric",
+"wood_semi_glossy",
+"shadow"
+]
+},
+"scale": [
+1,
+1,
+1
+],
+"desc": [
+"A sophisticated collection that includes a settee, armchairs, a chaise longue, a bench and a bed. The pieces suggest the memory of traditional furniture types, clearly visible in the large, enveloping back without armrests. The proportions of the tall back counterbalance the solid wood structure with its short legs, just slightly raised off the ground. One particular and very successful piece is the large padded bench with its central backrest, an icon of the collection, of great visual impact, at the center of the hall of a hotel or in the entrance of an elegant residence, perhaps at the foot of a double staircase. The cover in leather or fabric can have grosgrain borders with contrasting or matching colors."
+]
+},
+{
+"id": "5b0d052c931c810001e78d06",
+"c0": "Furniture",
+"c1": "Sofa",
+"c2": null,
+"name": "Polder Sofa",
+"size": "260cm x 97cm x 82cm",
+"maker": "Hella Jongerius",
+"thumb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/_thumb.jpg",
+"modelSfb": {
+"sfb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/andy.sfb"
+},
+"modelObj": {
+"obj": null,
+"mtl": null,
+"parts": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/1.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/2.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/3.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/4.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/button_black.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/button_middle.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/button_outline.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/button_stitch.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/cusion.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/leg.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/shadow.obj"
+],
+"textures": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/1.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/2.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/3.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/4.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/black.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/grey.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/white.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/pink.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/5.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/black.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Polder+Sofa/shadow-s.png"
+],
+"materials": [
+"fabric",
+"fabric",
+"fabric",
+"fabric",
+"fabric",
+"glass",
+"plastic",
+"fabric",
+"fabric",
+"plastic_semi_glossy",
+"shadow"
+]
+},
+"scale": [
+1,
+1,
+1
+],
+"desc": [
+"The distinctive design of the comfortable Polder Sofa by Hella Jongerius derives from its asymmetrical shape, varied combinations of fabrics and colours, and carefully chosen details. It is available in shades of red, green, golden yellow and night blue, creating a striking addition to any interior."
+]
+},
+{
+"id": "5b0d052c931c810001e78d05",
+"c0": "Furniture",
+"c1": "Chair",
+"c2": null,
+"name": "Stecca 5",
+"size": "64cm x 59cm x 110cm",
+"maker": "Colos",
+"thumb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Stecca5/_thumb.jpg",
+"modelSfb": {
+"sfb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/andy.sfb"
+},
+"modelObj": {
+"obj": null,
+"mtl": null,
+"parts": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Stecca5/feet.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Stecca5/frame.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Stecca5/shadow.obj"
+],
+"textures": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Stecca5/black.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Stecca5/black.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Stecca5/shadow-s.png"
+],
+"materials": [
+"plastic",
+"plastic_semi_glossy",
+"shadow"
+]
+},
+"scale": [
+1,
+1,
+1
+],
+"desc": [
+"STECCA 5 completes the seating collection
+with the high version of the barstool. The
+subtle and elegant crossbar allows a perfect
+stability. Ideal to be used for kitchen and bar,
+both for indoors and outdoors."
+]
+},
+{
+"id": "5b0d052c931c810001e78d0a",
+"c0": "Furniture",
+"c1": "Table",
+"c2": null,
+"name": "Tray Table_CH417",
+"size": "62cm x 62cm x 33cm",
+"maker": "Carlhansen & Son",
+"thumb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Tray+_able_CH417/_thumb.jpg",
+"modelSfb": {
+"sfb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/andy.sfb"
+},
+"modelObj": {
+"obj": null,
+"mtl": null,
+"parts": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Tray+_able_CH417/glossy_wood.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Tray+_able_CH417/wood.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Tray+_able_CH417/steel_frame.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Tray+_able_CH417/shadow.obj"
+],
+"textures": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Tray+_able_CH417/Brown_ash.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Tray+_able_CH417/oak_basic.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Tray+_able_CH417/brushed_steel.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_Tray+_able_CH417/shadow.png"
+],
+"materials": [
+"wood_semi_glossy",
+"wood",
+"stainless_steel",
+"shadow"
+]
+},
+"scale": [
+1,
+1,
+1
+],
+"desc": [
+"Hans J. Wegner's tray table is an elegant and flexible piece consisting of two parts - a round tray and a collapsible base - and can thus be used both as a coffee table and as a tray. To stress the multifunctional character of the design, the tray is designed with a refined, integrated handle, adding an ornamental detail to the design - a well-known Wegner signature."
+]
+},
+{
+"id": "5b0d052c931c810001e78d09",
+"c0": "Furniture",
+"c1": "Table",
+"c2": null,
+"name": "Kobe",
+"size": "60cm x 60cm x 72cm",
+"maker": "Desalto",
+"thumb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_KOBE60/_thumb.jpg",
+"modelSfb": {
+"sfb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/andy.sfb"
+},
+"modelObj": {
+"obj": null,
+"mtl": null,
+"parts": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_KOBE60/table_body.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_KOBE60/feet.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_KOBE60/shadow.obj"
+],
+"textures": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_KOBE60/white.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_KOBE60/white.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_KOBE60/shadow.png"
+],
+"materials": [
+"plastic",
+"plastic",
+"shadow"
+]
+},
+"scale": [
+1,
+1,
+1
+],
+"desc": [
+"Leader of a discreet style, Kobe tables embrace the simplicity of different geometric shapes. Pure functionality that adapts to any residential or workplace setting. "
+]
+},
+{
+"id": "5b0d052c931c810001e78d08",
+"c0": "Furniture",
+"c1": "Table",
+"c2": null,
+"name": "Clay",
+"size": "120cm x 120cm x 73.5cm",
+"maker": "Desalto",
+"thumb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_CLAY/_thumb.jpg",
+"modelSfb": {
+"sfb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/andy.sfb"
+},
+"modelObj": {
+"obj": null,
+"mtl": null,
+"parts": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_CLAY/body.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_CLAY/feet.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_CLAY/shadow.obj"
+],
+"textures": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_CLAY/concrete.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_CLAY/black_color.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Italy_CLAY/shadow.png"
+],
+"materials": [
+"concrete",
+"plastic",
+"shadow"
+]
+},
+"scale": [
+1,
+1,
+1
+],
+"desc": [
+"More than a table, a sculpture, a perfect union of beauty and harmonious proportions. The meeting of two volumes achieves a perfect balance of one over the other. "
+]
+},
+{
+"id": "5b0d052c931c810001e78d04",
+"c0": "Furniture",
+"c1": "Sofa",
+"c2": null,
+"name": "PAD 3.0",
+"size": "77cm x 77cm x 74cm",
+"maker": "MDF",
+"thumb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Itlay_Pad/_thumb.jpg",
+"modelSfb": {
+"sfb": "https://d5ogl78ccxxow.cloudfront.net/ub/ar/andy.sfb"
+},
+"modelObj": {
+"obj": null,
+"mtl": null,
+"parts": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Itlay_Pad/feet.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Itlay_Pad/leg.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Itlay_Pad/fabric.obj",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Itlay_Pad/shadow.obj"
+],
+"textures": [
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Itlay_Pad/black.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Itlay_Pad/white.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Itlay_Pad/fabric.jpg",
+"https://d5ogl78ccxxow.cloudfront.net/ub/ar/Sector3_Itlay_Pad/shadow-s.png"
+],
+"materials": [
+"plastic_glossy",
+"stainless_steel",
+"fabric",
+"shadow"
+]
+},
+"scale": [
+1,
+1,
+1
+],
+"desc": [
+"Simple lines and compact volumes mark the Pad 3.0 armchair and sofa collection. The result, designed to be as both home and contract furniture, is ideal in living rooms, offices, waiting rooms, lounge bars, restaurants and hotels."
+]
+}
+]
